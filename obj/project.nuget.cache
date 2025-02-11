@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9zn3ko/XKHI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rashid\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ShidMod\\ShidMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rashid\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

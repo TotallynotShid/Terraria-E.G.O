@@ -1,0 +1,3 @@
+displayName = Shid&#39;s Mod
+author = Totallynotshid
+version = 0.1

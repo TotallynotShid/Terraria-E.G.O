@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rashid\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ShidMod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6309E2A-61A4-46FB-9175-570E02E32D1D}|ShidMod.csproj|c:\\users\\rashid\\documents\\my games\\terraria\\tmodloader\\modsources\\shidmod\\content\\items\\butterfly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6309E2A-61A4-46FB-9175-570E02E32D1D}|ShidMod.csproj|solutionrelative:content\\items\\butterfly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Butterfly.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ShidMod\\Content\\Items\\Butterfly.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Butterfly.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ShidMod\\Content\\Items\\Butterfly.cs",
+              "RelativeToolTip": "Content\\Items\\Butterfly.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:45:47.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
